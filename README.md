@@ -1,7 +1,3 @@
+Author Quiz
 
-# Author Quiz
-
-Example app for learning basics of React. This is the example app for [React Fundamentals](https://app.pluralsight.com/library/courses/react-fundamentals-update/table-of-contents) Pluralsight course by [Liam McLennan](https://github.com/liammclennan).
-I will try to add timer and functionality of adding bulk questions soon.
-=======
-
+This app is stepping stone of React for me. I made this app following the "Pluralsight Intro to React" Course. In this application I will try to add timer for correct prediction time and option for adding bulk questions.
